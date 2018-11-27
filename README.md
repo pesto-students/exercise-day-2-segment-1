@@ -18,10 +18,12 @@
 
 ## Entries
 
-**arfat** - Neal Stephenson/Bill Bryson  
+**arfat** - Neal Stephenson/Bill Bryson/Paulo Coelho  
 **andrew** - Robert M. Pirsig  
 **nishant** - daniel kahneman  
 **anirudh** - Phil Knight  
 **Vipul** - Richard Dawkins  
+This line needs to be preserved.  
 **shashank36** - Dan Brown  
-**shikhardb** - Mark Twain
+**shikhardb** - Mark Twain  
+This line needs to be preserved too.  
