@@ -14,8 +14,7 @@
 
 **Step 6.** If there is a merge conflict, make sure to resolve it. **Also, make sure that your branch has at most 1 commit.** If there are more than one commits, squash all the commits.
 
-
- `Pesto Username - Favourite Author`
+`Pesto Username - Favourite Author`
 
 ## Entries
 
@@ -26,3 +25,5 @@
 **Vipul** - Richard Dawkins 
 **shashank36** - Dan Brown  
 **ankaj95** - Stan lee
+**shikhardb** - Mark Twain  
+
