@@ -44,4 +44,6 @@ Write your authors below -
 34740365 
 **Shalini** - J.K Rowling
 **Ankit** -Tony Robbins
-**shivangg** - Alfred Hitchcock
+**shivangg** - Alfred **Hitchcock**
+
+**shashwat** - Quentin Tarantino
