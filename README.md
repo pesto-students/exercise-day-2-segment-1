@@ -46,7 +46,7 @@ Write your authors below -
 **Ankit** -Tony Robbins
 **shivangg** - Alfred Hitchcock
 
-**shashwat** - Quentin Tarantino
+
 
 34740365  
 
@@ -54,4 +54,8 @@ Write your authors below -
 0.8790859618575548  
 0.5234215311848476   
 0.024595933406860837     
-0.8131628889806362
+**0.8131628889806362**
+
+
+
+**shashwat** - Quentin Tarantino
