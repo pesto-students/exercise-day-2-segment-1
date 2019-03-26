@@ -38,7 +38,7 @@ Line 2
 A new line? Preserve it!  
 Yet another new line? Preserve it!
 Write your authors below -  
-**chirag** - Jeffrey Archer
+**chirag** - Jeffrey Archer  
 **Preserve these random numbers**  
 33072219  
 88405225   
