@@ -33,7 +33,7 @@
 **shivangg** - Alfred Hitchcock  
 **Rishabh1403** - Sir Aurthur Conan Doyle  
 **niinpatel** - George Orwell  
-**vikash** - Charlie Brooker  
+**vikash** - Charlie Brooker
 **Prabhakar-Poudel** - Robert Louis Stevenson
 
 **Preserve the random words -**  
@@ -47,3 +47,4 @@ reign
 chickens  
 
 **Rajat Srivastava** - Malcolm Gladwell
+**Manish** - Robin Sharma
