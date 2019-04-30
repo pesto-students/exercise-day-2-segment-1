@@ -31,17 +31,12 @@
 **Shalini** - J.K Rowling  
 **Ankit** -Tony Robbins  
 **shivangg** - Alfred Hitchcock  
-This line needs to be preserved.  
-Line 1
-This line needs to be preserved too.  
-Line 2  
-A new line? Preserve it!  
-Yet another new line? Preserve it!
-Write your authors below -  
 **Rishabh1403** - Sir Aurthur Conan Doyle  
 **niinpatel** - George Orwell  
-**vikash** - Charlie Brooker
-
+**vikash** - Charlie Brooker  
+**Prabhakar-Poudel** - Robert Louis Stevenson
+**amit** - Paul Coelho 
+=======
 **Preserve these random numbers**  
 33072219  
 88405225   
@@ -55,5 +50,12 @@ Write your authors below -
 0.024595933406860837     
 0.8131628889806362   
 
-**Prabhakar-Poudel** - Robert Louis Stevenson
-**amit** - Paul Coelho 
+**Preserve the random words -**  
+pause  
+girls  
+flagrant  
+passenger  
+magnificent  
+rat  
+reign  
+chickens   
