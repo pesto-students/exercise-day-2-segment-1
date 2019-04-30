@@ -46,3 +46,5 @@ rat
 reign  
 chickens  
 **Manish** - Robin Sharma
+
+**Rajat Srivastava** - Malcolm Gladwell
