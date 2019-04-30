@@ -41,7 +41,7 @@ Write your authors below -
 **Rishabh1403** - Sir Aurthur Conan Doyle  
 **niinpatel** - George Orwell  
 **vikash** - Charlie Brooker
-**amit** - Paul Coelho 
+
 **Preserve these random numbers**  
 33072219  
 88405225   
@@ -56,3 +56,4 @@ Write your authors below -
 0.8131628889806362   
 
 **Prabhakar-Poudel** - Robert Louis Stevenson
+**amit** - Paul Coelho 
