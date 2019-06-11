@@ -36,7 +36,8 @@
 **vikash** - Charlie Brooker  
 **Prabhakar-Poudel** - Robert Louis Stevenson  
 **Manish** - Robin Sharma  
-**rakeshtembhurne** - Stephen R. Covey
+**rakeshtembhurne** - Stephen R. Covey  
+**Jaspreet Singh** - Kathy Sierra
 
 # Preserve these new lines -
 ## Your name has to come at the bottom of this text
@@ -53,4 +54,5 @@ channel
 ghost  
 exciting  
 reach  
+**Test** - Test Author  
 'Sebin Benjamin - Nick Bostrom'
