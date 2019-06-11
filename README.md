@@ -35,6 +35,7 @@
 **niinpatel** - George Orwell  
 **vikash** - Charlie Brooker
 **Prabhakar-Poudel** - Robert Louis Stevenson
+**Sebin Benjamin** - Nick Bostrom
 
 **Preserve the random words -**  
 pause  
