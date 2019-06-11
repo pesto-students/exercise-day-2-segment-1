@@ -41,6 +41,7 @@
 # Preserve these new lines -
 ## Your name has to come at the bottom of this text
 
+<<<<<<< HEAD
 unique  
 heat  
 flowery  
@@ -53,3 +54,4 @@ channel
 ghost  
 exciting  
 reach  
+
