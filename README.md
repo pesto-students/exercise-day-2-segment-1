@@ -47,7 +47,7 @@ reign
 chickens  
 **Manish** - Robin Sharma
 **rakeshtembhurne** - Stephen R. Covey
-**Prateek** - JK Rowling 
+**Prateek** -  JK Rowling 
 
 # Preserve these new lines -
 ## Your name has to come at the bottom of this text
