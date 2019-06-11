@@ -47,6 +47,9 @@ reign
 chickens  
 **Manish** - Robin Sharma
 **rakeshtembhurne** - Stephen R. Covey
+**Manish** - Robin Sharma  
+**rakeshtembhurne** - Stephen R. Covey  
+**Jaspreet Singh** - Kathy Sierra
 **Prateek** -  JK Rowling 
 
 # Preserve these new lines -
@@ -64,3 +67,5 @@ channel
 ghost  
 exciting  
 reach  
+
+**Test** - Test Author  
