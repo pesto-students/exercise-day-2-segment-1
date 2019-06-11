@@ -54,5 +54,9 @@ channel
 ghost  
 exciting  
 reach  
+<<<<<<< HEAD
 
 **Test** - Test Author  
+=======
+**arorakaanv11** - Ben Horowitz/DHH
+>>>>>>> [TASK] added favourite author
