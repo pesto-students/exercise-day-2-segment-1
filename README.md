@@ -18,8 +18,6 @@
 `Pesto Username - Favourite Author`
 
 ## Entries
-
-<<<<<<< HEAD
 |Username| Favourite Authors|
 |---|--|
 |**arfat** | Neal Stephenson/Bill Bryson/Paulo Coelho  |
