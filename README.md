@@ -55,5 +55,8 @@ ghost
 exciting  
 reach  
 
-**Test** - Test Author  
+**Test** - Test Author 
+**kanavaz** - Ben Horowitz/DHH  
+**Karan** - Sir Arthur Conan Doyle
+**Navneet** - Leo Tolstoy
 **sumeetrohra** - Mark Manson
