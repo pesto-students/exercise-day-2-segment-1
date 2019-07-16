@@ -18,42 +18,52 @@
 
 ## Entries
 
-**arfat** - Neal Stephenson/Bill Bryson/Paulo Coelho  
-**andrew** - Robert M. Pirsig  
-**nishant** - daniel kahneman  
-**anirudh** - Phil Knight  
-**Vipul** - Richard Dawkins  
-**shashank36** - Dan Brown  
-**shikhardb** - Mark Twain  
-**Rishabh1403** - Sir Aurthur Conan Doyle  
-**niinpatel** - George Orwell  
-**vikash** - Charlie Brooker  
-**Shalini** - J.K Rowling  
-**Ankit** -Tony Robbins  
-**shivangg** - Alfred Hitchcock  
-**Rishabh1403** - Sir Aurthur Conan Doyle  
-**niinpatel** - George Orwell  
-**vikash** - Charlie Brooker  
-**Prabhakar-Poudel** - Robert Louis Stevenson  
-**Manish** - Robin Sharma  
-**rakeshtembhurne** - Stephen R. Covey  
-**Jaspreet Singh** - Kathy Sierra
 
-# Preserve these new lines -
-## Your name has to come at the bottom of this text
+|Username| Favourite Authors|
+|---|--|
+|**arfat** | Neal Stephenson/Bill Bryson/Paulo Coelho  |
+|**andrew** | Robert M. Pirsig|
+|**nishant** | daniel kahneman|
+|**anirudh** | Phil Knight  |
+|**Vipul** | Richard Dawkins  |
+|**shashank36** | Dan Brown  |
+|**shikhardb** | Mark Twain  |
+|**Rishabh1403** | Sir Aurthur Conan Doyle  |
+|**niinpatel** | George Orwell  |
+|**vikash** | Charlie Brooker  |
+|**Shalini** | J.K Rowling  |
+|**Ankit** |Tony Robbins  |
+|**shivangg** | Alfred Hitchcock  |
+|**Rishabh1403** | Sir Aurthur Conan Doyle  |
+|**niinpatel** | George Orwell  |
+|**vikash** | Charlie Brooker  |
+|**Prabhakar-Poudel** | Robert Louis Stevenson  |
+|**Manish** | Robin Sharma  |
+|**rakeshtembhurne** | Stephen R. Covey  |
+|**Jaspreet Singh** | Kathy Sierra|
 
-unique  
-heat  
-flowery  
-deadpan  
-brush  
-ancient  
-deceive  
-violet  
-channel  
-ghost  
-exciting  
-reach  
+# Preserve these random words
 
-**Test** - Test Author  
+error  
+therapist  
+father  
+increase  
+scrap  
+hurl  
+spokesperson  
+thumb  
+young  
+habitat  
+shop  
+apple  
+concentration  
+sequence  
+wording  
+sell  
+breeze  
+
+# Batch 9 - Put your authors below this line
+**kanavaz** - Ben Horowitz/DHH  
+**Karan** - Sir Arthur Conan Doyle
+**Navneet** - Leo Tolstoy
 **mdaz78** - Mark Manson
