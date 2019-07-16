@@ -38,7 +38,6 @@
 **Manish** - Robin Sharma  
 **rakeshtembhurne** - Stephen R. Covey  
 **Jaspreet Singh** - Kathy Sierra
-**Piyush Aggarwal** - Jiraya
 
 # Preserve these new lines -
 ## Your name has to come at the bottom of this text
