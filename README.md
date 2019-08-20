@@ -16,11 +16,11 @@
 
 `Pesto Username - Favourite Author`
 
-## Restrictions 
+## Restrictions
+
 - You can only make one PR.
 - Once created, don't close and open another PR.
 - Once forked, you can't re-fork the repository later.
-
 
 ## Entries
 
@@ -45,10 +45,10 @@
 | **Prabhakar-Poudel** | Robert Louis Stevenson                   |
 | **Manish**           | Robin Sharma                             |
 | **rakeshtembhurne**  | Stephen R. Covey                         |
-| **Jaspreet Singh** | Kathy Sierra|
-| **kanavaz** | Ben Horowitz/DHH |
-| **Karan** | Sir Arthur Conan Doyle  |
-| **Navneet** | Leo Tolstoy |
+| **Jaspreet Singh**   | Kathy Sierra                             |
+| **kanavaz**          | Ben Horowitz/DHH                         |
+| **Karan**            | Sir Arthur Conan Doyle                   |
+| **Navneet**          | Leo Tolstoy                              |
 
 ## Preserve these random words
 
@@ -81,6 +81,7 @@ reduction
 reliable
 
 # Batch 10 - Put your authors below this line
+
 **mbtamuli** - Stephen Baxter
 **SOMARAN** - Johnathon Livingston
 **SarthakC** - Jules Verne
