@@ -16,6 +16,12 @@
 
 `Pesto Username - Favourite Author`
 
+## Restrictions 
+- You can only make one PR.
+- Once created, don't close and open another PR.
+- Once forked, you can't re-fork the repository later.
+
+
 ## Entries
 
 | Username             | Favourite Authors                        |
@@ -73,13 +79,6 @@ seed
 guarantee
 reduction
 reliable
-
-# Batch 9 - Put your authors below this line
-
-**kanavaz** - Ben Horowitz/DHH  
-**Karan** - Sir Arthur Conan Doyle  
-**Navneet** - Leo Tolstoy
-
 
 # Batch 10 - Put your authors below this line
 **SarthakC** - Jules Verne
