@@ -16,6 +16,11 @@
 
 `Pesto Username - Favourite Author`
 
+## Restrictions
+- You can only make one PR.
+- Once created, don't close and open another PR.
+- Once forked, you can't re-fork the repository later.
+
 ## Entries
 
 |Username| Favourite Authors|
@@ -40,29 +45,38 @@
 |**Manish** | Robin Sharma  |
 |**rakeshtembhurne** | Stephen R. Covey  |
 |**Jaspreet Singh** | Kathy Sierra|
+|**kanavaz** | Ben Horowitz/DHH |
+|**Karan** | Sir Arthur Conan Doyle  |
+|**Navneet** | Leo Tolstoy |
 
-# Preserve these random words
+## Preserve these random words
 
-error  
-therapist  
-father  
-increase  
-scrap  
-hurl  
-spokesperson  
-thumb  
-young  
-habitat  
-shop  
-apple  
-concentration  
-sequence  
-wording  
-sell  
-breeze  
+video
+look
+suggest
+slow
+achievement
+cottage
+referee
+spokesperson
+pillow
+affair
+distinct
+maid
+practice
+governor
+qualify
+cooperative
+rape
+patent
+stroll
+payment
+scream
+miner
+pour
+seed
+guarantee
+reduction
+reliable
 
-# Batch 9 - Put your authors below this line
-**kanavaz** - Ben Horowitz/DHH  
-**Karan** - Sir Arthur Conan Doyle  
-**Navneet** - Leo Tolstoy
-**Ankeeth** - A.B. McKinley
+# Batch 10 - Put your authors below this line
