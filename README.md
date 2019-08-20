@@ -39,31 +39,48 @@
 | **Prabhakar-Poudel** | Robert Louis Stevenson                   |
 | **Manish**           | Robin Sharma                             |
 | **rakeshtembhurne**  | Stephen R. Covey                         |
-| **Jaspreet Singh**   | Kathy Sierra                             |
+| **Jaspreet Singh** | Kathy Sierra|
+| **kanavaz** | Ben Horowitz/DHH |
+| **Karan** | Sir Arthur Conan Doyle  |
+| **Navneet** | Leo Tolstoy |
 
-# Preserve these random words
+## Preserve these random words
 
-error  
-therapist  
-father  
-increase  
-scrap  
-hurl  
-spokesperson  
-thumb  
-young  
-habitat  
-shop  
-apple  
-concentration  
-sequence  
-wording  
-sell  
-breeze
+video
+look
+suggest
+slow
+achievement
+cottage
+referee
+spokesperson
+pillow
+affair
+distinct
+maid
+practice
+governor
+qualify
+cooperative
+rape
+patent
+stroll
+payment
+scream
+miner
+pour
+seed
+guarantee
+reduction
+reliable
 
 # Batch 9 - Put your authors below this line
 
 **kanavaz** - Ben Horowitz/DHH  
 **Karan** - Sir Arthur Conan Doyle  
 **Navneet** - Leo Tolstoy
+
+
+# Batch 10 - Put your authors below this line
 **SarthakC** - Jules Verne
+
