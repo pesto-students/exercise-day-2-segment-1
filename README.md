@@ -18,28 +18,28 @@
 
 ## Entries
 
-|Username| Favourite Authors|
-|---|--|
-|**arfat** | Neal Stephenson/Bill Bryson/Paulo Coelho  |
-|**andrew** | Robert M. Pirsig|
-|**nishant** | daniel kahneman|
-|**anirudh** | Phil Knight  |
-|**Vipul** | Richard Dawkins  |
-|**shashank36** | Dan Brown  |
-|**shikhardb** | Mark Twain  |
-|**Rishabh1403** | Sir Aurthur Conan Doyle  |
-|**niinpatel** | George Orwell  |
-|**vikash** | Charlie Brooker  |
-|**Shalini** | J.K Rowling  |
-|**Ankit** |Tony Robbins  |
-|**shivangg** | Alfred Hitchcock  |
-|**Rishabh1403** | Sir Aurthur Conan Doyle  |
-|**niinpatel** | George Orwell  |
-|**vikash** | Charlie Brooker  |
-|**Prabhakar-Poudel** | Robert Louis Stevenson  |
-|**Manish** | Robin Sharma  |
-|**rakeshtembhurne** | Stephen R. Covey  |
-|**Jaspreet Singh** | Kathy Sierra|
+| Username             | Favourite Authors                        |
+| -------------------- | ---------------------------------------- |
+| **arfat**            | Neal Stephenson/Bill Bryson/Paulo Coelho |
+| **andrew**           | Robert M. Pirsig                         |
+| **nishant**          | daniel kahneman                          |
+| **anirudh**          | Phil Knight                              |
+| **Vipul**            | Richard Dawkins                          |
+| **shashank36**       | Dan Brown                                |
+| **shikhardb**        | Mark Twain                               |
+| **Rishabh1403**      | Sir Aurthur Conan Doyle                  |
+| **niinpatel**        | George Orwell                            |
+| **vikash**           | Charlie Brooker                          |
+| **Shalini**          | J.K Rowling                              |
+| **Ankit**            | Tony Robbins                             |
+| **shivangg**         | Alfred Hitchcock                         |
+| **Rishabh1403**      | Sir Aurthur Conan Doyle                  |
+| **niinpatel**        | George Orwell                            |
+| **vikash**           | Charlie Brooker                          |
+| **Prabhakar-Poudel** | Robert Louis Stevenson                   |
+| **Manish**           | Robin Sharma                             |
+| **rakeshtembhurne**  | Stephen R. Covey                         |
+| **Jaspreet Singh**   | Kathy Sierra                             |
 
 # Preserve these random words
 
@@ -59,9 +59,11 @@ concentration
 sequence  
 wording  
 sell  
-breeze  
+breeze
 
 # Batch 9 - Put your authors below this line
+
 **kanavaz** - Ben Horowitz/DHH  
 **Karan** - Sir Arthur Conan Doyle  
 **Navneet** - Leo Tolstoy
+**SarthakC** - Jules Verne
