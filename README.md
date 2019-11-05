@@ -83,4 +83,3 @@ reliable
 **mbtamuli** - Stephen Baxter
 **SOMARAN** - Johnathon Livingston
 
-Pesto hiteshkundal - Robert Kiyosaki 
