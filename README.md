@@ -48,7 +48,7 @@
 |**kanavaz** | Ben Horowitz/DHH |
 |**Karan** | Sir Arthur Conan Doyle  |
 |**Navneet** | Leo Tolstoy |
- 
+
 
 ## Preserve these random words
 
