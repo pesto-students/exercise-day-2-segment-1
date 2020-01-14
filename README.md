@@ -49,6 +49,7 @@
 |**Karan** | Sir Arthur Conan Doyle  |
 |**Navneet** | Leo Tolstoy |
 |**SOMARAN** | Johnathon Livingston |  
+|**mbtamuli** | J.K Rowling | 
 
 ## Preserve these random sentences
 
@@ -104,6 +105,5 @@ I currently have 4 windows open up… and I don’t know why.
 Last Friday in three week’s time I saw a spotted striped blue worm shake hands with a legless lizard.  
 
 
-# Batch 11 - Put your authors below this line
+# Batch 12 - Put your authors below this line
 
-**mbtamuli** - J.K Rowling
