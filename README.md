@@ -107,11 +107,7 @@ Last Friday in three week’s time I saw a spotted striped blue worm shake hands
 
 # Batch 12 - Put your authors below this line
 
-<<<<<<< HEAD
 - Add your entry after this line
 - one more random line - entry after this line
+- rishabh1403 - some author
 - viral - garyvee
-=======
-|**Viral** | GaryVee | 
-
->>>>>>> c22f8b350be13fa9c99974140eb5fa1677e41f1d
