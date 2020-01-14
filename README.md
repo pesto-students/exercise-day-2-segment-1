@@ -51,6 +51,7 @@
 |**SOMARAN** | Johnathon Livingston |  
 |**mbtamuli** | J.K Rowling | 
 
+
 ## Preserve these random sentences
 
 The memory we used to share is no longer coherent.    
@@ -110,3 +111,5 @@ Last Friday in three week’s time I saw a spotted striped blue worm shake hands
 - rishabh1403 - some author
 - Add your entry after this line
 - add after this line
+|**nitishmittal1990** | Daniel Kahneman | 
+
