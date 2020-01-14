@@ -107,6 +107,12 @@ Last Friday in three week’s time I saw a spotted striped blue worm shake hands
 
 # Batch 12 - Put your authors below this line
 
+<<<<<<< HEAD
 Add your entry after this line
 one more random line
 vineetvk01- JK Rowling
+=======
+- rishabh1403 - some author
+- Add your entry after this line
+- add after this line
+>>>>>>> 3898a52e636a621349dd5d8575cda2b87ebedb9a
