@@ -107,4 +107,9 @@ Last Friday in three week’s time I saw a spotted striped blue worm shake hands
 
 
 # Batch 12 - Put your authors below this line
+
+- rishabh1403 - some author
+- Add your entry after this line
+- add after this line
 |**nitishmittal1990** | Daniel Kahneman | 
+
