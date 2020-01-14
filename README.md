@@ -113,4 +113,4 @@ one more random line
 - rishabh1403 - some author
 - Add your entry after this line
 - add after this line
-- vineetvk01 - JK Rowling
+- vineetvk01 - JK Rowlings
